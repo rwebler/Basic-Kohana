@@ -1,0 +1,1 @@
+Basic install of Kohana (v3.1.1.1) with autoloading of Zend Framework Classes enabled and a public_html that keeps the framework out of the web accessible path.
